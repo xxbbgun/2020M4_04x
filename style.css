@@ -16,16 +16,16 @@ body {
     box-sizing: border-box;
 }
 .banner {
-    background-color: blue;
+    background-color: rgb(236, 187, 27);
     height: 100px;
 }
 .content {
-    width: 100%;
-    background-color: gray;
+    width: 50%;
+    background-color: white;
 }
 .sideboard {
-    width: 100%;
-    background-color:rgb(236, 187, 27);
+    width: 50%;
+    background-color:rgb(155, 134, 67);
     height: 400px;
 }
 .post {
